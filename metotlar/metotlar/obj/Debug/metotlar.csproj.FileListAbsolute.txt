@@ -1,0 +1,26 @@
+C:\Users\Win_7\Desktop\metotlar\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\Win_7\Desktop\metotlar\metotlar\bin\Debug\metotlar.exe
+C:\Users\Win_7\Desktop\metotlar\metotlar\bin\Debug\metotlar.pdb
+C:\Users\Win_7\Desktop\metotlar\metotlar\obj\Debug\metotlar.Form1.resources
+C:\Users\Win_7\Desktop\metotlar\metotlar\obj\Debug\metotlar.Properties.Resources.resources
+C:\Users\Win_7\Desktop\metotlar\metotlar\obj\Debug\metotlar.csproj.GenerateResource.Cache
+C:\Users\Win_7\Desktop\metotlar\metotlar\obj\Debug\metotlar.exe
+C:\Users\Win_7\Desktop\metotlar\metotlar\obj\Debug\metotlar.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\bin\Debug\metotlar.exe.config
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\bin\Debug\metotlar.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\bin\Debug\metotlar.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.csprojResolveAssemblyReference.cache
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.Form1.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.Properties.Resources.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\8. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.csproj.GenerateResource.Cache
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\bin\Debug\metotlar.exe.config
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\bin\Debug\metotlar.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\bin\Debug\metotlar.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.csprojResolveAssemblyReference.cache
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.Form1.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.Properties.Resources.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\10. hafta 1ö\metotlar\metotlar\obj\Debug\metotlar.csproj.GenerateResource.Cache
